@@ -18,4 +18,4 @@ Desenvolvedor de software com foco em backend, automação e projetos de IA. Bus
 
 [TF_Alquimia_ALEST2](https://github.com/AllanGroisman/TF_Alquimia_ALEST2) — Resolução de um problema de grafos (algoritmos e estruturas de dados)
 
-**Contato:** allangroisman@gmail.com
+**Contato:** allangroisman@outlook.com
