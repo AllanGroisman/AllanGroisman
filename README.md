@@ -12,10 +12,6 @@ Desenvolvedor de software com foco em backend, automação e projetos de IA. Bus
 
 **poketche** — App mobile para colecionadores de Pokémon TCG (Expo, Fastify, Prisma)
 
-[DellAcademyMegaSena](https://github.com/AllanGroisman/DellAcademyMegaSena) — Sistema de sorteio feito para seleção da Dell IT Academy
-
 [Dell_Resume_Prompt](https://github.com/AllanGroisman/Dell_Resume_Prompt) — CLI que monta pacotes de prompt para IA a partir de conversas de um fórum
-
-[TF_Alquimia_ALEST2](https://github.com/AllanGroisman/TF_Alquimia_ALEST2) — Resolução de um problema de grafos (algoritmos e estruturas de dados)
 
 **Contato:** allangroisman@outlook.com
